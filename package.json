@@ -1,6 +1,6 @@
 {
   "name": "module-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "testing npm dependencies on git repos",
   "main": "module.js",
   "scripts": {
